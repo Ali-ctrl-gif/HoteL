@@ -25,6 +25,3 @@ Hotel.rooms.AddRange(new[] { Room1, Room2, Room3 });
 //U1.ShowReservations();
 
 Hotel.EmptyRooms();
-
-//foreach (var room in Hotel.EmptyRooms())
-//    room.ShowInfo();
